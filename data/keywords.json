@@ -1,0 +1,105 @@
+{
+  "keywords": [
+    {
+      "slug": "search-intent",
+      "keyword": "what is search intent",
+      "silo": "seo",
+      "content_type": "guide",
+      "competitors": [
+        {
+          "name": "yoast",
+          "url": "https://yoast.com/search-intent/",
+          "file": "data/competitors/search-intent/yoast.md"
+        },
+        {
+          "name": "semrush",
+          "url": "https://www.semrush.com/blog/search-intent/",
+          "file": "data/competitors/search-intent/semrush.md"
+        },
+        {
+          "name": "seerinteractive",
+          "url": "https://www.seerinteractive.com/insights/what-is-search-intent",
+          "file": "data/competitors/search-intent/seerinteractive.md"
+        }
+      ],
+      "content_file": "content/search-intent.md"
+    },
+    {
+      "slug": "seo-for-saas",
+      "keyword": "seo for saas",
+      "silo": "seo",
+      "content_type": "guide",
+      "competitors": [
+        {
+          "name": "marketermilk",
+          "url": "https://www.marketermilk.com/blog/saas-seo",
+          "file": "data/competitors/seo-for-saas/marketermilk.md"
+        },
+        {
+          "name": "growandconvert",
+          "url": "https://www.growandconvert.com/seo/saas-seo-strategy/",
+          "file": "data/competitors/seo-for-saas/growandconvert.md"
+        },
+        {
+          "name": "designrevision",
+          "url": "https://designrevision.com/blog/seo-for-saas",
+          "file": "data/competitors/seo-for-saas/designrevision.md"
+        }
+      ],
+      "content_file": "content/seo-for-saas.md"
+    },
+    {
+      "slug": "aeo-vs-seo",
+      "keyword": "aeo vs seo",
+      "silo": "aeo",
+      "content_type": "guide",
+      "competitors": [
+        {
+          "name": "optimizely",
+          "url": "https://www.optimizely.com/insights/blog/seo-vs-aeo/",
+          "file": "data/competitors/aeo-vs-seo/optimizely.md"
+        },
+        {
+          "name": "seo-com",
+          "url": "https://www.seo.com/ai/aeo-vs-seo/",
+          "file": "data/competitors/aeo-vs-seo/seo-com.md"
+        },
+        {
+          "name": "mavlers",
+          "url": "https://www.mavlers.com/blog/seo-vs-aeo/",
+          "file": "data/competitors/aeo-vs-seo/mavlers.md"
+        }
+      ],
+      "content_file": "content/aeo-vs-seo.md"
+    },
+    {
+      "slug": "seo-for-roofing",
+      "keyword": "seo for roofing",
+      "silo": "seo",
+      "content_type": "guide",
+      "competitors": [
+        {
+          "name": "servicetitan",
+          "url": "https://www.servicetitan.com/blog/roofing-seo",
+          "file": "data/competitors/seo-for-roofing/servicetitan.md"
+        },
+        {
+          "name": "magnifylab",
+          "url": "https://www.magnifylab.com/blog/seo-for-roofing-companies-guide/",
+          "file": "data/competitors/seo-for-roofing/magnifylab.md"
+        },
+        {
+          "name": "backlinko",
+          "url": "https://backlinko.com/seo-for-roofers",
+          "file": "data/competitors/seo-for-roofing/backlinko.md"
+        }
+      ],
+      "content_file": "content/seo-for-roofing.md"
+    }
+  ],
+  "convergence": {
+    "plateau_patience": 15,
+    "min_improvement_threshold": 0.02,
+    "noise_handling": "confirmation_run"
+  }
+}

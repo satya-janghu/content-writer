@@ -1,0 +1,26 @@
+# Scoring + profiling stack (evaluate.py, analyze_competitors.py, eval_server.py).
+# On Linux the default torch wheel is CUDA-enabled; scoring expects an NVIDIA GPU.
+torch
+sentence-transformers<5
+transformers<5
+bertopic
+umap-learn
+hdbscan
+gliner
+keybert
+networkx
+rank-bm25
+textstat
+scikit-learn
+scipy
+numpy
+
+# Generation backend (propose.py, regen.py, bench_gemini_vs_opus.py) + env loading
+google-genai
+python-dotenv
+
+# Competitor scraping (scrape_competitors.py; run `crawl4ai-setup` once)
+crawl4ai
+
+# Tests
+pytest

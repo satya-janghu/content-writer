@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+/.pytest_cache/
+
+# Secrets
+.env
+
+# OS / temp
+.DS_Store
+/tmp/
+*.tmp
+
+# Autoresearch runtime state (created by the loop; never committed)
+/.autoresearch/
+/.worktrees/
+/autoresearch-state.json
+/autoresearch-state.json.lock
+/autoresearch-state.json.tmp
+/autoresearch-results.tsv
+
+# Third-party competitor articles and the profiles derived from them.
+# Rebuild locally: scripts/scrape_competitors.py, then scripts/analyze_competitors.py.
+/data/competitors/
+/data/profiles/

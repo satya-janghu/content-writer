@@ -1,0 +1,187 @@
+{
+  "opus": {
+    "seo-for-roofing": {
+      "ok": true,
+      "regen_s": 198.8227801322937,
+      "model": "claude-opus-4-6",
+      "slug": "seo-for-roofing",
+      "composite": 0.8257738253387907,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8743276178836822,
+        "corpus_match": 0.775502761212519,
+        "keyword_profile": 0.6473524305555555,
+        "entity_coverage": 0.34478047916912546,
+        "entity_graph": 0.20058112673854103,
+        "narrative_coverage": 0.996271306818182,
+        "readability_structural": 0.7936080397468104,
+        "content_length": 1.0,
+        "banned_words": 0.97
+      }
+    },
+    "seo-for-saas": {
+      "ok": true,
+      "regen_s": 634.3475983142853,
+      "model": "claude-opus-4-6",
+      "slug": "seo-for-saas",
+      "composite": 0.8543314377944116,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8734099984169006,
+        "corpus_match": 0.9472045036339448,
+        "keyword_profile": 0.6263020833333334,
+        "entity_coverage": 0.3348809523809524,
+        "entity_graph": 0.22507445476482452,
+        "narrative_coverage": 0.8865411931818181,
+        "readability_structural": 0.9239130434782609,
+        "content_length": 1.0,
+        "banned_words": 0.94
+      }
+    },
+    "aeo-vs-seo": {
+      "ok": true,
+      "regen_s": 153.44561767578125,
+      "model": "claude-opus-4-6",
+      "slug": "aeo-vs-seo",
+      "composite": 0.8451553981949389,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.863957929611206,
+        "corpus_match": 0.8296436314225959,
+        "keyword_profile": 0.6417100694444443,
+        "entity_coverage": 0.39042407660738715,
+        "entity_graph": 0.28331220286555986,
+        "narrative_coverage": 1.0,
+        "readability_structural": 0.8636402280164648,
+        "content_length": 0.9973012188044109,
+        "banned_words": 0.97
+      }
+    },
+    "search-intent": {
+      "ok": true,
+      "regen_s": 142.18805193901062,
+      "model": "claude-opus-4-6",
+      "slug": "search-intent",
+      "composite": 0.8322504902535395,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8678503155708313,
+        "corpus_match": 0.8414604524387528,
+        "keyword_profile": 0.6384548611111109,
+        "entity_coverage": 0.3670087976539589,
+        "entity_graph": 0.1938537260663615,
+        "narrative_coverage": 0.9348366477272727,
+        "readability_structural": 0.807820632217684,
+        "content_length": 1.0,
+        "banned_words": 0.94
+      }
+    }
+  },
+  "sonnet": {
+    "seo-for-roofing": {
+      "ok": true,
+      "regen_s": 1063.5671546459198,
+      "model": "claude-sonnet-4-6",
+      "slug": "seo-for-roofing",
+      "composite": 0.8468931664706547,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8808780193328857,
+        "corpus_match": 0.8773761880200851,
+        "keyword_profile": 0.6705729166666666,
+        "entity_coverage": 0.2910310947146514,
+        "entity_graph": 0.1931220422783245,
+        "narrative_coverage": 1.0,
+        "readability_structural": 0.876984126984127,
+        "content_length": 1.0,
+        "banned_words": 1.0
+      }
+    },
+    "seo-for-saas": {
+      "ok": true,
+      "regen_s": 473.56428599357605,
+      "model": "claude-sonnet-4-6",
+      "slug": "seo-for-saas",
+      "composite": 0.8706281586822566,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.877249401807785,
+        "corpus_match": 0.9788549306955102,
+        "keyword_profile": 0.605251736111111,
+        "entity_coverage": 0.41321428571428565,
+        "entity_graph": 0.24397059883693917,
+        "narrative_coverage": 0.9220525568181817,
+        "readability_structural": 0.9293478260869565,
+        "content_length": 1.0,
+        "banned_words": 1.0
+      }
+    },
+    "aeo-vs-seo": {
+      "ok": true,
+      "regen_s": 929.7837514877319,
+      "model": "claude-sonnet-4-6",
+      "slug": "aeo-vs-seo",
+      "composite": 0.8622160219552477,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8862302422523498,
+        "corpus_match": 0.8925976870222906,
+        "keyword_profile": 0.6365017361111113,
+        "entity_coverage": 0.4078659370725034,
+        "entity_graph": 0.265504716626646,
+        "narrative_coverage": 1.0,
+        "readability_structural": 0.9358440538273229,
+        "content_length": 1.0,
+        "banned_words": 0.94
+      }
+    },
+    "search-intent": {
+      "ok": true,
+      "regen_s": 549.5138320922852,
+      "model": "claude-sonnet-4-6",
+      "slug": "search-intent",
+      "composite": 0.82566732572469,
+      "scores": {
+        "topical_coverage": 1.0,
+        "keyword_relevance": 0.8685917317867279,
+        "corpus_match": 0.873605188447535,
+        "keyword_profile": 0.661892361111111,
+        "entity_coverage": 0.3079545454545455,
+        "entity_graph": 0.16030147890586846,
+        "narrative_coverage": 0.9314630681818179,
+        "readability_structural": 0.7085886317042482,
+        "content_length": 1.0,
+        "banned_words": 1.0
+      }
+    }
+  },
+  "regen_times": {
+    "opus": {
+      "seo-for-roofing": 198.8227801322937,
+      "seo-for-saas": 634.3475983142853,
+      "aeo-vs-seo": 153.44561767578125,
+      "search-intent": 142.18805193901062
+    },
+    "sonnet": {
+      "seo-for-roofing": 1063.5671546459198,
+      "seo-for-saas": 473.56428599357605,
+      "aeo-vs-seo": 929.7837514877319,
+      "search-intent": 549.5138320922852
+    }
+  },
+  "_summary": {
+    "max_relative_drop": 0.1730802282799928,
+    "tolerance": 0.1,
+    "compared_pairs": 40,
+    "offenders": [
+      "seo-for-roofing/entity_coverage: opus=0.3448 sonnet=0.2910 drop=15.6%",
+      "search-intent/entity_coverage: opus=0.3670 sonnet=0.3080 drop=16.1%",
+      "search-intent/entity_graph: opus=0.1939 sonnet=0.1603 drop=17.3%",
+      "search-intent/readability_structural: opus=0.8078 sonnet=0.7086 drop=12.3%"
+    ],
+    "opus_regen_p95_s": 634.3475983142853,
+    "sonnet_regen_p95_s": 1063.5671546459198,
+    "opus_regen_max_s": 634.3475983142853,
+    "sonnet_regen_max_s": 1063.5671546459198
+  }
+}
